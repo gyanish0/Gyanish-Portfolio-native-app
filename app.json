@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testnative",
-    "slug": "testnative",
+    "name": "Portfolio",
+    "slug": "portfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gyanish0.portfolio"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Gyanish Shrivastava Portfolio"
   }
 }
